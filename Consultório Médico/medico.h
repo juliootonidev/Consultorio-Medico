@@ -1,12 +1,3 @@
-//Componentes
-//Giovanny Kenzo Salata Sato 
-//RA: 1430482021013
-//------------------
-//Julio Gabriel Profeta Otoni
-//RA: 1430482021011
-//------------------
-//Samuel Silva Perumalswamy
-//RA: 1430482011010
 
 // medico.h dedinição do tipo medico e protótipo de suas operações.
 
